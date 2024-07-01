@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.container{
+    max-width: 1104px !important;
+}
+
+
+.font-16-400{
+    font-size: 16px;
+    font-weight: 400;
+}
+.font-16-500{
+    font-size: 16px;
+    font-weight: 500;
+}
+.font-16-600{
+    font-size: 16px;
+    font-weight: 600;
+}
+.font-16-700{
+    font-size: 16px;
+    font-weight: 700;
+}
+.font-16-800{
+    font-size: 16px;
+    font-weight: 800;
+}
+.font-16-900{
+    font-size: 16px;
+    font-weight: 900;
+}
+
+
+
+.font-17-400{
+    font-size: 17px;
+    font-weight: 400;
+}
+.font-17-500{
+    font-size: 17px;
+    font-weight: 500;
+}
+.font-17-600{
+    font-size: 17px;
+    font-weight: 600;
+}
+.font-17-700{
+    font-size: 17px;
+    font-weight: 700;
+}
+.font-17-800{
+    font-size: 17px;
+    font-weight: 800;
+}
+.font-17-900{
+    font-size: 17px;
+    font-weight: 900;
+}
+
+.font-21-400{
+    font-size: 21px;
+    font-weight: 400;
+}
+.font-21-500{
+    font-size: 21px;
+    font-weight: 500;
+}
+.font-21-600{
+    font-size: 21px;
+    font-weight: 600;
+}
+.font-21-700{
+    font-size: 21px;
+    font-weight: 700;
+}
+.font-21-800{
+    font-size: 21px;
+    font-weight: 800;
+}
+.font-21-900{
+    font-size: 21px;
+    font-weight: 900;
+}
+
+.font-36-400{
+    font-size: 36px;
+    font-weight: 400;
+}
+.font-36-500{
+    font-size: 36px;
+    font-weight: 500;
+}
+.font-36-600{
+    font-size: 36px;
+    font-weight: 600;
+}
+.font-36-700{
+    font-size: 36px;
+    font-weight: 700;
+}
+.font-36-800{
+    font-size: 36px;
+    font-weight: 800;
+}
+.font-36-900{
+    font-size: 36px;
+    font-weight: 900;
+}
+
+
+.font-48-400{
+    font-size: 48px;
+    font-weight: 400;
+}
+.font-48-500{
+    font-size: 48px;
+    font-weight: 500;
+}
+.font-48-600{
+    font-size: 48px;
+    font-weight: 600;
+}
+.font-48-700{
+    font-size: 48px;
+    font-weight: 700;
+}
+.font-48-800{
+    font-size: 48px;
+    font-weight: 800;
+}
+.font-48-900{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+
+
+.btn{
+text-align: center;
+font-family: "Be Vietnam Pro";
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: -0.5px;
+
+border-radius: 8px;
+}
+
+.btn-md{
+width: 158px;
+height: 45px;
+}
+.btn-primary{
+background: #473BF0;
+color: #FFF;
+}
+
+.btn-lg{
+    width: 227px;
+    height: 59px;
+}
