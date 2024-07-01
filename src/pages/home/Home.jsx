@@ -38,7 +38,7 @@ const Home = () => {
   return (
     <>
       <div className="container  mainContent py-5"  >
-        <GetStarted title={"Hello World"}  description={"This is my hello world description"} />
+        <GetStarted title={"Hello Vercel "}  description={"This is my hello world description"} />
         <Banner image={"/src/assets/images/browser 01.png"} />
         <div className="row my-5" >
 
